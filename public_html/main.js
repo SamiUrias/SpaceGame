@@ -161,7 +161,9 @@ function dibujarDisparos(){
     ctx.restore();
 }
 
-function dibujarDisparosEnemigos()
+function dibujarDisparosEnemigos(){
+    
+}
 function dibujarEnemigos(){
     for(var i in enemigos){
         ctx.save();
